@@ -13,11 +13,8 @@ https://d1muf25xa03so8hp17.s27-usa-cloudfront-net.online/token/72da9678f21304432
 https://d1muf25xa03so8hp17.s27-usa-cloudfront-net.online/token/1c6873041db2ff79f1466f9115b84af4/espn4.m3u8
 #EXTINF:-7,Eleven1
 https://d1muf25xa03so8hp17.s27-usa-cloudfront-net.online/token/cfb03c4fbec75f61341fdf9a0a9980bd/pt_eleven1.m3u8
-#EXTINF:-8,Hbo Max
-https://d1muf25xa03so8hp17.s27-usa-cloudfront-net.online/token/3ccd39af2ba3e0de666a19f153dde3b1/max1.m3u8
-#EXTINF:-9,Eleven1 
+#EXTINF:-10,Eleven1 
 https://d1muf25xa03so8hp18.s27-usa-cloudfront-net.online/token/7505208658fb46a5edd103acbbc59145/pt_eleven1.m3u8
-#EXTINF:-10,Paramontes
+#EXTINF:-9,Paramontes
 https://d1muf25xa03so8hp18.s27-usa-cloudfront-net.online/token/471a813f547c7e9450c3c6b2550c36c6/paramountplus.m3u8
-#EXTINF:-11,Hbo Max
-https://d1muf25xa03so8hp18.s27-usa-cloudfront-net.online/token/3797f1fe74073c315748c8503b262be8/max1.txt
+
